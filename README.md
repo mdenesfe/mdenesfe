@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍🎓 I am currently study at [42 İstanbul](https://www.42istanbul.com.tr/) 
+- 👨‍🎓 I am currently studying [42 İstanbul](https://www.42istanbul.com.tr/) 
 - 👨‍🎓 I am a computer engineering student
 
 <div align="center">
