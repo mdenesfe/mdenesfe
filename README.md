@@ -3,12 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdenesfe&label=Profile%20views&color=0e75b6&style=flat" alt="mdenesfe" /> </p>
 
+-👨‍🎓 I'm currently study at 42 İstanbul
+
 - 🌱 I’m currently learning **C Programming Language**
 
 - 📝 I regularly write articles on [https://medium.com/@mdenesfe](https://medium.com/@mdenesfe)
 
 - 📫 How to reach me **mdenesfe@gmail.com**
-- 
+
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
     <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cla6123aa00680fl2mezm2fxo/stats?cursusId=21&coalitionId=228" alt="mdemir's 42 stats" /></a>
