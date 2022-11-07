@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdenesfe&label=Profile%20views&color=0e75b6&style=flat" alt="mdenesfe" /> </p>
 
--👨‍🎓 I'm currently study at 42 İstanbul
+- 👨‍🎓 I'm currently study at 42 İstanbul
 
 - 🌱 I’m currently learning **C Programming Language**
 
