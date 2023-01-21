@@ -16,7 +16,8 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdenesfe&theme=dracula)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdenesfe&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdenesfe&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdenesfe&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdenesfe&theme=dracula)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
