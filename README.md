@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enes Demir</h1>
 <h3 align="center">I am a computer engineering student</h3>
-
+<span align="center">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mdenesfe&label=Profile%20views&color=0e75b6&style=flat" alt="mdenesfe" /> </p>
 
 - 👨‍🎓 I'm currently study at 42 İstanbul
@@ -25,5 +25,6 @@
 <a href="https://linkedin.com/in/mdenesfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdenesfe" height="30" width="40" /></a>
 <a href="https://medium.com/@mdenesfe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mdenesfe" height="30" width="40" /></a>
 </p>
+</span>
 
 ![Snake animation](https://github.com/mdenesfe/mdenesfe/blob/output/github-contribution-grid-snake.svg)
