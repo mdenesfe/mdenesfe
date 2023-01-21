@@ -17,8 +17,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mdenesfe&theme=dracula)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdenesfe&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mdenesfe&theme=dracula)
- <br /><br/>
-<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=mdenesfe&show_icons=true&locale=en" alt="mdenesfe" /></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
