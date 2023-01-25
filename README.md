@@ -21,6 +21,8 @@
 <br/>  
 <br>
 
+<span align= center>
+
 👨‍🎓 I'm currently study at 42 İstanbul
 
 🌱 I’m currently learning **Python Programming Language**
