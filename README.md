@@ -22,7 +22,7 @@
 
 👨‍🎓 I'm currently study at 42 İstanbul
 
-🌱 I’m currently learning **REACT**
+🌱 I’m currently learning **C#**
 
 📝 I regularly write articles on [https://medium.com/@mdenesfe](https://medium.com/@mdenesfe)
 
